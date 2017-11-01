@@ -38,5 +38,6 @@ The workshop covers:
 
 - [Tahir](tahir.md)
 - [Diane](diane.md)
-- [Penelope](penelope.md)
+- [Penelope](Penelope.md)
 - [Kasey](kasey.md)
+
