@@ -32,18 +32,10 @@ The workshop covers:
 
 - Review [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/) guide
 - Complete as many challenges as you can in [tryGit](https://try.github.io/)
-<<<<<<< HEAD
-- Further reading: [Getting Started - Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
-=======
 - Further reading: [Getting Started - Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 
 # Participants
 
 - [Tahir](tahir.md)
-<<<<<<< HEAD
->>>>>>> d4d5731aebe167a6fd7e76a23a9846a1c5dc9f87
 - [Diane](diane.md)
-=======
-
 - [Penelope](penelope.md)
->>>>>>> 28f7df61173c7910134962def432c9d383ad3d73
