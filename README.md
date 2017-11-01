@@ -37,3 +37,4 @@ The workshop covers:
 # Participants
 
 - [Tahir](tahir.md)
+-[Kasey](kasey.md)
