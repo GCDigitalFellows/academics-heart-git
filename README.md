@@ -37,20 +37,6 @@ The workshop covers:
 # Participants
 
 - [Tahir](tahir.md)
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> d4d5731aebe167a6fd7e76a23a9846a1c5dc9f87
-- [Diane](diane.md)
-=======
-
-- [Penelope](penelope.md)
->>>>>>> 28f7df61173c7910134962def432c9d383ad3d73
->>>>>>> 245057d44b8445e3ef145476899ea10102887191
-=======
 - [Diane](diane.md)
 - [Penelope](penelope.md)
->>>>>>> 068a85bc4a0fb35d96a76c1232cba586973c96c6
-
--[Kasey](kasey.md)
+- [Kasey](kasey.md)
