@@ -37,3 +37,5 @@ The workshop covers:
 # Participants
 
 - [Tahir](tahir.md)
+
+- [Penelope](penelope.md)
