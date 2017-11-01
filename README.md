@@ -41,3 +41,4 @@ The workshop covers:
 
 - [Tahir](tahir.md)
 >>>>>>> d4d5731aebe167a6fd7e76a23a9846a1c5dc9f87
+- [Diane](diane.md)
