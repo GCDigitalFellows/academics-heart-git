@@ -8,6 +8,7 @@ The workshop covers:
 1. Why Learn Git?
 2. Getting Started
 3. Basics of Git
+4. Collaboration on GitHub
 5. Bonus: [GitHub Pages](https://guides.github.com/features/pages/)
 6. Bonus: [GitHub Issues](https://guides.github.com/features/issues/)
 
